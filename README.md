@@ -1,5 +1,4 @@
-# PV2FC
-PMX/VMD to FBX Convrter<br/>
+# PV2FC(PMX/VMD to FBX Convrter)
 Blender Python APIスクリプト<br/>
 
 ※GUIは基本含まれません。<br/>
