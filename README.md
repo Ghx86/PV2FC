@@ -18,8 +18,12 @@ PV2FCはMMD ToolsなどのBlender Python APIスクリプトを外部GUIによる
 | Blender | GPL | [Release](https://download.blender.org/release/) |
 
 
-### 対応/推奨バージョン
-対応しないバージョンの互換性は保証外です。
+### 対応/推奨環境
+- 対応しないバージョンの互換性は保証外です。
+- Blender 4.2がCドライブ直下(C:\Program Files)にあること。
+- Blender 4.2に対応しているMMD Toolsが以下の2か所にあること。
+- C:\Users\ユーザ名\AppData\Roaming\Blender Foundation\Blender\4.2\extensions\blender_org\mmd_tools
+- C:\Users\ユーザ名\AppData\Roaming\Blender Foundation\Blender\4.2\scripts\addons\mmd_tools
 | PV2FC | Blender | MMD Tools | 
 |:---:|:---:|:---:|
 | v1.2 | 4.5.x LTS | 4.5.1 |
