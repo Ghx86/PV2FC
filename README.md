@@ -1,6 +1,6 @@
 # PV2FC (PMX/VMD to FBX Converter)
 
-Blender Python APIスクリプト
+PV2FCはMMD ToolsなどのBlender Python APIスクリプトを外部GUIによるDnDなどの簡易操作によって自動化したソフトウェアです。
 
 ※GUIは基本含まれません。Source codeはzipにまとめているため機能しません。
 
