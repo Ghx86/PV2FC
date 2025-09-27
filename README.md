@@ -10,6 +10,7 @@ Blender Python APIスクリプト
 ※Blender Scriptingタブに使用可能<br/>
 ![スクリーンショット](https://github.com/user-attachments/assets/813fda16-2e09-4e3b-bd59-b64c61c41932)
 
+
 ### 関連
 
 | ツール | ライセンス | リンク |
@@ -17,13 +18,15 @@ Blender Python APIスクリプト
 | MMD Tools | GPLv3 | https://github.com/MMD-Blender/blender_mmd_tools/releases |
 | Blender | GPL | https://download.blender.org/release/ |
 
-###対応/推奨バージョン
+
+### 対応/推奨バージョン
 
 | PV2FC | Blender | MMD Tools | 
 |:---:|:---:|:---:|
-| 1.2 | 4.5.x LTS | 4.5.1 |
-| 1.1 | 4.2.x LTS | 4.3.9 |
-| 1.0 | 4.2.x LTS | 4.3.9 |
+| v1.2 | 4.5.x LTS | 4.5.1 |
+| v1.1 | 4.2.x LTS | 4.3.9 |
+| v1.0 | 4.2.x LTS | 4.3.9 |
+
 
 ### 利用規約
 本ソフトによるいかなる問題発生に関して製作者は一切の責任を負いません。また、事前告知なしに利用規約を変更した場合においても最新の規約が適用されます。
