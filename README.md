@@ -10,7 +10,7 @@ Blender Python APIスクリプト
 ※Blender Scriptingタブに使用可能<br/>
 ![スクリーンショット](https://github.com/user-attachments/assets/813fda16-2e09-4e3b-bd59-b64c61c41932)
 
-### ダウンロードリンク
+### 関連
 
 | ツール | ライセンス | リンク |
 |:---:|:---:|---|
