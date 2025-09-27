@@ -18,10 +18,10 @@ PV2FCは、Blender Python API（MMD Toolsなど）による入出力などの操
 
 ## 対応/推奨環境
 対応しないバージョンの互換性は保証外です。<br/>
-Blender 4.2がCドライブ直下(C:\Program Files)にあること。<br/>
-Blender 4.2に対応しているMMD Toolsが以下の2か所にあること。
-- C:\Users\ユーザ名\AppData\Roaming\Blender Foundation\Blender\4.2\extensions\blender_org\mmd_tools
-- C:\Users\ユーザ名\AppData\Roaming\Blender Foundation\Blender\4.2\scripts\addons\mmd_tools
+Blender 4.xがCドライブ直下(C:\Program Files)にあること。<br/>
+Blender 4.xに対応しているMMD Toolsが以下の2か所にあること。
+- C:\Users\ユーザ名\AppData\Roaming\Blender Foundation\Blender\4.x\extensions\blender_org\mmd_tools
+- C:\Users\ユーザ名\AppData\Roaming\Blender Foundation\Blender\4.x\scripts\addons\mmd_tools
 
 | PV2FC | Blender | MMD Tools | 
 |:---:|:---:|:---:|
