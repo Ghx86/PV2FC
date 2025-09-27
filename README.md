@@ -17,6 +17,14 @@ Blender Python APIスクリプト
 | MMD Tools | GPLv3 | https://github.com/MMD-Blender/blender_mmd_tools/releases |
 | Blender | GPL | https://download.blender.org/release/ |
 
+###対応/推奨バージョン
+
+| PV2FC | Blender | MMD Tools | 
+|:---:|:---:|:---:|
+| 1.2 | 4.5.x LTS | 4.5.1 |
+| 1.1 | 4.2.x LTS | 4.3.9 |
+| 1.0 | 4.2.x LTS | 4.3.9 |
+
 ### 利用規約
 本ソフトによるいかなる問題発生に関して製作者は一切の責任を負いません。また、事前告知なしに利用規約を変更した場合においても最新の規約が適用されます。
 
