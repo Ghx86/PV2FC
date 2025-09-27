@@ -1,5 +1,4 @@
 # PV2FC (PMX/VMD to FBX Converter)
-
 PV2FCは、Blender Python API（MMD Toolsなど）による入出力などの操作を外部GUIから予め簡易設定できるようにしたソフトウェアです。
 
 ※GUIは基本含まれません。Source codeはzipにまとめているため機能しません。
@@ -10,15 +9,14 @@ PV2FCは、Blender Python API（MMD Toolsなど）による入出力などの操
 ![スクリーンショット](https://github.com/user-attachments/assets/813fda16-2e09-4e3b-bd59-b64c61c41932)
 
 
-### 関連
-
+## 関連
 | ツール | ライセンス | リンク |
 |:---:|:---:|---|
 | MMD Tools | GPLv3 | [Release](https://github.com/MMD-Blender/blender_mmd_tools/releases) |
 | Blender | GPL | [Release](https://download.blender.org/release/) |
 
 
-### 対応/推奨環境
+## 対応/推奨環境
 対応しないバージョンの互換性は保証外です。<br/>
 Blender 4.2がCドライブ直下(C:\Program Files)にあること。<br/>
 Blender 4.2に対応しているMMD Toolsが以下の2か所にあること。
