@@ -15,8 +15,8 @@ Blender Python APIスクリプト
 
 | ツール | ライセンス | リンク |
 |:---:|:---:|---|
-| MMD Tools | GPLv3 | [Release](https://github.com/MMD-Blender/blender_mmd_tools/releases) |
-| Blender | GPL | [Release]([https://github.com/MMD-Blender/blender_mmd_tools/tree/blender-v3](https://download.blender.org/release/)) |
+| MMD Tools | GPLv3 | [Release][https://github.com/MMD-Blender/blender_mmd_tools/releases] |
+| Blender | GPL | [Release][https://download.blender.org/release/] |
 
 
 ### 対応/推奨バージョン
