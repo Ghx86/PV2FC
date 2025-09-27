@@ -21,9 +21,9 @@ PV2FCはMMD ToolsなどのBlender Python APIスクリプトを外部GUIによる
 ### 対応/推奨環境
 対応しないバージョンの互換性は保証外です。<br/>
 Blender 4.2がCドライブ直下(C:\Program Files)にあること。<br/>
-Blender 4.2に対応しているMMD Toolsが以下の2か所にあること。<br/>
+Blender 4.2に対応しているMMD Toolsが以下の2か所にあること。
 - C:\Users\ユーザ名\AppData\Roaming\Blender Foundation\Blender\4.2\extensions\blender_org\mmd_tools
-- C:\Users\ユーザ名\AppData\Roaming\Blender Foundation\Blender\4.2\scripts\addons\mmd_tools<br/>
+- C:\Users\ユーザ名\AppData\Roaming\Blender Foundation\Blender\4.2\scripts\addons\mmd_tools
 
 | PV2FC | Blender | MMD Tools | 
 |:---:|:---:|:---:|
@@ -32,7 +32,7 @@ Blender 4.2に対応しているMMD Toolsが以下の2か所にあること。<b
 | v1.0 | 4.2.x LTS | 4.3.9 |
 
 
-### 利用規約
+## 利用規約
 本ソフトによるいかなる問題発生に関して製作者は一切の責任を負いません。また、事前告知なしに利用規約を変更した場合においても最新の規約が適用されます。
 
 個人利用においては、商用・非商用を問わず、連絡不要で使用および改変（.py形式）することができます。
