@@ -15,7 +15,6 @@
 |:---:|:---:|---|
 | PV2FC | 利用規約を参照 | [Release](https://github.com/Ghx86/PV2FC/releases) |
 | MMD Tools | GPLv3 | [Release](https://github.com/MMD-Blender/blender_mmd_tools/releases) |
-| Blender | GPL | [Release](https://download.blender.org/release/) |
 
 ## 対応/推奨環境
 対応しないバージョンの互換性は保証外です。<br/>
