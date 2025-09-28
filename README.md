@@ -3,13 +3,11 @@
 
 ![Image](https://github.com/user-attachments/assets/26423e12-b0fc-4ec2-b155-955dc7dbfe0d)
 
-※GUIは基本含まれません。Source code内のコードは機能しません。
+※GUIは基本含まれません。Source code内のコードは機能しません。<br/>
+※[ソフトウェア版(bowlroll)はこちら。](https://bowlroll.net/file/336351)<br/>
+※Blender Scriptingタブに使用可能
 
-※[ソフトウェア版(bowlroll)はこちら。](https://bowlroll.net/file/336351)
-
-※Blender Scriptingタブに使用可能<br/>
 ![スクリーンショット](https://github.com/user-attachments/assets/813fda16-2e09-4e3b-bd59-b64c61c41932)
-
 
 ## 関連
 | ツール | ライセンス | リンク |
@@ -17,7 +15,6 @@
 | PV2FC | 利用規約を参照 | [Release](https://github.com/Ghx86/PV2FC/releases) |
 | MMD Tools | GPLv3 | [Release](https://github.com/MMD-Blender/blender_mmd_tools/releases) |
 | Blender | GPL | [Release](https://download.blender.org/release/) |
-
 
 ## 対応/推奨環境
 対応しないバージョンの互換性は保証外です。<br/>
@@ -30,7 +27,6 @@ Blender 4.xに対応しているMMD Toolsが以下の2か所にあること。
 | v1.2 | 4.5.x LTS | 4.5.1 |
 | v1.1 | 4.2.x LTS | 4.3.9 |
 | v1.0 | 4.2.x LTS | 4.3.9 |
-
 
 ## 利用規約
 本ソフトによるいかなる問題発生に関して製作者は一切の責任を負いません。また、事前告知なしに利用規約を変更した場合においても最新の規約が適用されます。
