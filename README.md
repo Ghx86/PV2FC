@@ -3,7 +3,7 @@ PV2FCは、Blender Python API（MMD Toolsなど）による入出力などの操
 
 ※GUIは基本含まれません。Source codeはzipにまとめているため機能しません。
 
-※[ソフトウェア版(PySide6)はこちら。](https://bowlroll.net/file/336351)
+※[ソフトウェア版(bowlroll)はこちら。](https://bowlroll.net/file/336351)
 
 ※Blender Scriptingタブに使用可能<br/>
 ![スクリーンショット](https://github.com/user-attachments/assets/813fda16-2e09-4e3b-bd59-b64c61c41932)
