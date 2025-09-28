@@ -1,10 +1,11 @@
 # PV2FC (PMX/VMD to FBX Converter)
-本ソフトは、Blender Python API（MMD Toolsなど）による入出力などの操作を外部GUIから予め簡易設定できるようにしたツールです。
+本ソフトは、Blender Python API（MMD Toolsなど）による入出力などの操作を外部GUIから予め簡易設定できるようにしたツールです。<br/>
+※GUIは基本含まれません。Source code内のコードは機能しません。<br/>
+※[ソフトウェア版(bowlroll)はこちら。](https://bowlroll.net/file/336351)<br/>
 
 ![Image](https://github.com/user-attachments/assets/26423e12-b0fc-4ec2-b155-955dc7dbfe0d)
 
-※GUIは基本含まれません。Source code内のコードは機能しません。<br/>
-※[ソフトウェア版(bowlroll)はこちら。](https://bowlroll.net/file/336351)<br/>
+
 ※Blender Scriptingタブに使用可能
 
 ![スクリーンショット](https://github.com/user-attachments/assets/813fda16-2e09-4e3b-bd59-b64c61c41932)
