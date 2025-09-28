@@ -12,6 +12,7 @@ PV2FCは、Blender Python API（MMD Toolsなど）による入出力などの操
 ## 関連
 | ツール | ライセンス | リンク |
 |:---:|:---:|---|
+| PV2FC | 利用規約を参照 | [Release](https://github.com/Ghx86/PV2FC/releases) |
 | MMD Tools | GPLv3 | [Release](https://github.com/MMD-Blender/blender_mmd_tools/releases) |
 | Blender | GPL | [Release](https://download.blender.org/release/) |
 
